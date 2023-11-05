@@ -5,10 +5,18 @@
   justify-content: center;
   align-items: center;
 }
+body{
+  background: linear-gradient(
+    90deg,
+    rgb(235, 233, 235) 0%,
+    rgb(47, 18, 33) 100%
+  );
+}
+
 
 .image {
-  width: 1000px;
-  height: 600px;
+  width: 800px;
+  height: 400px;
   border-radius: 10px;
 }
 
