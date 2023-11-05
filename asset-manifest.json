@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Tp2_react/static/css/main.e7dbbc53.css",
+    "main.css": "/Tp2_react/static/css/main.d482c103.css",
     "main.js": "/Tp2_react/static/js/main.f9fe6ab9.js",
     "static/js/787.86dc4aeb.chunk.js": "/Tp2_react/static/js/787.86dc4aeb.chunk.js",
     "static/media/tangerPlaya.jpg": "/Tp2_react/static/media/tangerPlaya.b9a12233cf3a4e684eeb.jpg",
@@ -10,12 +10,12 @@
     "static/media/assilah.jpg": "/Tp2_react/static/media/assilah.04bf6e49344a56683a59.jpg",
     "static/media/tangier1.jpg": "/Tp2_react/static/media/tangier1.f76e1e5a074957405b6a.jpg",
     "index.html": "/Tp2_react/index.html",
-    "main.e7dbbc53.css.map": "/Tp2_react/static/css/main.e7dbbc53.css.map",
+    "main.d482c103.css.map": "/Tp2_react/static/css/main.d482c103.css.map",
     "main.f9fe6ab9.js.map": "/Tp2_react/static/js/main.f9fe6ab9.js.map",
     "787.86dc4aeb.chunk.js.map": "/Tp2_react/static/js/787.86dc4aeb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7dbbc53.css",
+    "static/css/main.d482c103.css",
     "static/js/main.f9fe6ab9.js"
   ]
 }
