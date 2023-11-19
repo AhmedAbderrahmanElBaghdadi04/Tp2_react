@@ -23,10 +23,10 @@ const ImageSlider = ({ slides }) => {
   return (
     <Container fluid>
       <Row className="justify-content-center align-items-center vh-100">
-        <Col md={1} className="text-center">
+        <Col xs={12} xxl={12} xl={12} sm={12} md={10} className="text-center">
           <Button variant='secondary' onClick={prevSlide}>&lt;</Button>
         </Col>
-        <Col xs={12} md={10} className="text-center">
+        <Col xs={12} xxl={12} xl={12} sm={12} md={10} className="text-center">
           {SliderData.map((slide, index) => (
             <div
               className={index === current ? 'slide active' : 'slide'}
@@ -43,7 +43,7 @@ const ImageSlider = ({ slides }) => {
             </div>
           ))}
         </Col>
-        <Col md={1} className="text-center">
+        <Col xs={12} xxl={12} xl={12} sm={12} md={10} className="text-center">
           <Button variant='secondary' onClick={nextSlide}>&gt;</Button>
         </Col>
       </Row>
