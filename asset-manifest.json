@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "/Tp2_react/static/css/main.d6859a07.css",
-    "main.js": "/Tp2_react/static/js/main.ff75acf1.js",
+    "main.css": "/Tp2_react/static/css/main.ae75a643.css",
+    "main.js": "/Tp2_react/static/js/main.126f30b0.js",
     "static/js/787.86dc4aeb.chunk.js": "/Tp2_react/static/js/787.86dc4aeb.chunk.js",
     "static/media/tangerPlaya.jpg": "/Tp2_react/static/media/tangerPlaya.b9a12233cf3a4e684eeb.jpg",
     "static/media/sokdbara.jpg": "/Tp2_react/static/media/sokdbara.1ec8020192ec956bf09f.jpg",
     "static/media/lhafa.jpg": "/Tp2_react/static/media/lhafa.813655314decc89fdefe.jpg",
     "static/media/gtavc.jpg": "/Tp2_react/static/media/gtavc.7287df8486cd999fcff7.jpg",
-    "static/media/assilah.jpg": "/Tp2_react/static/media/assilah.04bf6e49344a56683a59.jpg",
     "static/media/tangier1.jpg": "/Tp2_react/static/media/tangier1.f76e1e5a074957405b6a.jpg",
     "index.html": "/Tp2_react/index.html",
-    "main.d6859a07.css.map": "/Tp2_react/static/css/main.d6859a07.css.map",
-    "main.ff75acf1.js.map": "/Tp2_react/static/js/main.ff75acf1.js.map",
+    "main.ae75a643.css.map": "/Tp2_react/static/css/main.ae75a643.css.map",
+    "main.126f30b0.js.map": "/Tp2_react/static/js/main.126f30b0.js.map",
     "787.86dc4aeb.chunk.js.map": "/Tp2_react/static/js/787.86dc4aeb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6859a07.css",
-    "static/js/main.ff75acf1.js"
+    "static/css/main.ae75a643.css",
+    "static/js/main.126f30b0.js"
   ]
 }
