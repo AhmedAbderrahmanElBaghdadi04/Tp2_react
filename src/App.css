@@ -14,9 +14,9 @@ body{
 }
 
 
-.image {
-  width: 800px;
-  height: 400px;
+img {
+  width: 600px;
+  height: 600px;
   border-radius: 10px;
 }
 
@@ -51,4 +51,7 @@ body{
   opacity: 1;
   transition-duration: 1s;
   transform: scale(1.08);
+}
+.center-image {
+  margin: 0 auto; /* Pour centrer horizontalement */
 }
